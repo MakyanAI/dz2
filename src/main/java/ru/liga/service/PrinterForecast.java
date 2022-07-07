@@ -23,7 +23,7 @@ public class PrinterForecast {
                 .collect(Collectors.toList());
 
         Collections.reverse(outputList);
-         String result;
+         String result ="";
 
         for (int i = 0; i < period; i++){
             CurrencyRate ol = outputList.get(i);
