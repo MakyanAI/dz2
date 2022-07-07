@@ -23,7 +23,6 @@ public class PrinterForecast {
                 .collect(Collectors.toList());
 
         Collections.reverse(outputList);
-        String result = "Прогноз EUR для Настюшки: \n";
 
         for (int i = 0; i < period; i++){
             CurrencyRate ol = outputList.get(i);
