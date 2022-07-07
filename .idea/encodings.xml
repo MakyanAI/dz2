@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/AMD_F01_02_2005_T05_03_2022.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/BGN_F01_02_2005_T05_03_2022.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/EUR_F01_02_2005_T02_07_2022.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/EUR_F01_02_2005_T05_03_2022.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TRY_F01_02_2005_T02_07_2022.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/TRY_F01_02_2005_T05_03_2022.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/USD_F01_02_2005_T05_03_2022.csv" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
